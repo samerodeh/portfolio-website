@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 300" fill="none"><title>A little fox sleeping beneath the sun</title>
+<style>@keyframes breathe{0%,100%{transform:scale(1,1)}50%{transform:scale(1.018,1.035)}}@keyframes sleep{0%{opacity:0;transform:translate(0,6px) scale(.7)}25%{opacity:.65}75%{opacity:.4}100%{opacity:0;transform:translate(8px,-22px) scale(1.1)}}.fox-body{transform-box:fill-box;transform-origin:50% 100%;animation:breathe 3.8s ease-in-out infinite}.sleep{transform-box:fill-box;transform-origin:center;animation:sleep 3s ease-in-out infinite}.sleep.second{animation-delay:1.5s}@media(prefers-reduced-motion:reduce){.fox-body,.sleep{animation:none}}</style><circle cx="217" cy="133" r="105" fill="#EADAC5"/>
+<circle cx="258" cy="81" r="31" fill="#F5EADD"/>
+<path d="M65 234c70 9 229 12 296-1" stroke="#C6B59E" stroke-width="2" stroke-linecap="round"/>
+<ellipse cx="213" cy="230" rx="125" ry="12" fill="#D6C4AD" opacity=".4"/>
+<g class="fox-body"><path d="M120 220c-21-38-1-78 43-87 55-11 106 15 111 58 3 26-21 40-66 40h-55c-15 0-27-3-33-11Z" fill="#BA6542"/>
+<path d="M186 202c-29-37-77-27-91 1-13 27 10 43 58 37 24-3 49-14 68-25" fill="#CF8056"/>
+<path d="M95 203c-10 21 0 34 26 37 13-10 21-25 19-43-18-3-33-1-45 6Z" fill="#F7EEE1"/>
+<path d="m246 159 8-52 31 30 30-23 9 58c5 32-17 54-43 53-28-1-51-29-35-66Z" fill="#CF8056"/>
+<path d="m257 139 1-20 16 18m25 4 13-16 2 28" fill="#714C3E"/>
+<path d="M250 174c9 0 24 9 34 25 9-16 25-24 38-26-2 27-17 45-39 45-20 0-34-18-33-44Z" fill="#F7EEE1"/>
+<path d="M258 174q7 7 14 0m24 0q7 7 14 0" stroke="#493A31" stroke-width="3" stroke-linecap="round"/>
+<path d="m278 198 11 0-5 6Z" fill="#493A31"/>
+<path d="M168 229q25 6 43-4" stroke="#945036" stroke-width="3" stroke-linecap="round"/>
+</g><path class="sleep" d="m339 133 11 0-10 11h11" stroke="#AA8F76" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="sleep second" d="M355 109h14l-13 15h15" stroke="#AA8F76" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M80 228v-17m0 9-8-7m8 10 7-8M341 229v-12m0 6 6-5" stroke="#8F987B" stroke-width="2" stroke-linecap="round"/>
+</svg>
